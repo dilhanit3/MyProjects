@@ -48,8 +48,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="PageObject\Browser.cs" />
     <Compile Include="PageObject\LoginPage.cs" />
+    <Compile Include="PageObject\Pages.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

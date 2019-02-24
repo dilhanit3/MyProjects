@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyWordPressProject
+namespace MyWordPressProject.PageObject
 {
-    public class Class1
+    static public class Pages
     {
+        static  public LoginPage LoginPage
+        {
+
+        }
     }
 }

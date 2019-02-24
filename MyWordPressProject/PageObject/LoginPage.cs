@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MyWordPressProject.PageObject
 {
-    class LoginPage
+    static public class LoginPage
     {
+       string url = "https://dil651249401.wordpress.com/";
     }
 }

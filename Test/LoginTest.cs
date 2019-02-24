@@ -7,7 +7,7 @@ namespace Test
     public class LoginTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Login()
         {
         }
     }
