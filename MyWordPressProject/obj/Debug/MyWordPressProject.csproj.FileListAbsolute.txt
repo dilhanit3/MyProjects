@@ -1,0 +1,11 @@
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\bin\Debug\MyWordPressProject.dll
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\bin\Debug\MyWordPressProject.pdb
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\bin\Debug\WebDriver.dll
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\bin\Debug\WebDriver.Support.dll
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\bin\Debug\WebDriver.xml
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\bin\Debug\WebDriver.Support.xml
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\obj\Debug\MyWordPressProject.csprojAssemblyReference.cache
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\obj\Debug\MyWordPressProject.csproj.CoreCompileInputs.cache
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\obj\Debug\MyWordPressProject.csproj.CopyComplete
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\obj\Debug\MyWordPressProject.dll
+C:\Users\Dilhani\Documents\C#MyWonWork\GitWork\MyWordPressProject\MyWordPressProject\obj\Debug\MyWordPressProject.pdb

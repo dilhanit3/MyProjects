@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OpenQA.Selenium.Support.PageObjects;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +7,17 @@ using System.Threading.Tasks;
 
 namespace MyWordPressProject.PageObject
 {
-    static public class Pages
+    public static class Pages
     {
-        static  public LoginPage LoginPage
+        
+        public static LoginPage LoginPage
         {
-
+            get
+            {
+                var loginPage = new LoginPage();
+                PageFactory.InitElements(Browser.driver, loginPage);
+                return loginPage;
+            }
         }
     }
 }
